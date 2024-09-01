@@ -1,5 +1,4 @@
-![]()
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2Z3poMXI4djEyNjQzcTZ2eWl5aHJuN2JpenN3bjU4bGVrYXFsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbGWXmC39RdsXCHDsk/giphy.gif)" width="80" height="80" />
+![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2Z3poMXI4djEyNjQzcTZ2eWl5aHJuN2JpenN3bjU4bGVrYXFsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbGWXmC39RdsXCHDsk/giphy.gif)" width="80" height="80" )
 # Basketball Players Stats-Predicting the #Blocks per Player
 An Exploratory Data Analysis and Machine Learning Approach
 
