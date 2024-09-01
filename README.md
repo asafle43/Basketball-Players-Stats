@@ -80,7 +80,9 @@ An initial exploratory data analysis was conducted to identify patterns, distrib
 **Plots charts** 
 Distribution of Numeric Features:
 
-![](Screenshot 2024-09-01 at 18.14.55.png)
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.14.55.png)
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.15.06.png)
+
 
 **Numeric Features to identify Outliers:**
 
