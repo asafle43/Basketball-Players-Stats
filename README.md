@@ -80,7 +80,7 @@ An initial exploratory data analysis was conducted to identify patterns, distrib
 **Plots charts** 
 Distribution of Numeric Features:
 
-![image.png](attachment:46b1d21f-6476-485c-9641-1d97ccce09a0.png)
+![image.png](Screenshot 2024-09-01 at 18.14.55.png)
 
 **Numeric Features to identify Outliers:**
 
