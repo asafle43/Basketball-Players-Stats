@@ -1,6 +1,6 @@
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWthcXVyZ3h3eWhoY2Mwc3hrMTNhdnJnY3ZhNmFocDFuanNkOWp3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NAQ6qRoa61vCYU9Pa/giphy.gif)
 
-#Basketball Players Stats-Predicting the #Blocks per Player
+# Basketball Players Stats-Predicting the #Blocks per Player
 An Exploratory Data Analysis and Machine Learning Approach
 
 ## 1. Intro
