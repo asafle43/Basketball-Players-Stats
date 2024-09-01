@@ -1,12 +1,10 @@
 
 
-n
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng2YjMyam40am03bjhtY2s2cHE2Z2EydXJhaDk2OWQ0eGNreHM2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KbGWXmC39RdsXCHDsk/giphy.gif)
 
 
 # Basketball Players Stats-Predicting the #Blocks per Player
 An Exploratory Data Analysis and Machine Learning Approach
-
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng2YjMyam40am03bjhtY2s2cHE2Z2EydXJhaDk2OWQ0eGNreHM2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KbGWXmC39RdsXCHDsk/giphy.gif)
 ## 1. Intro
 This project focused building a predictive ML model for who want to find and prodict 'How may blocks each player accumulate during a specific season?'.Blocks are a critical defensive metric in basketball, reflecting a player's ability to prevent the opposing team from scoring by deflecting or stopping their shots.
 The project relied on a data set from Kaggle and included about 11k players who played in the top 49 leagues and their details.
