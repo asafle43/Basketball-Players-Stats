@@ -124,17 +124,17 @@ Model Results using the Metrics
 
 - Train Results-
 
-![image.png](attachment:e0285741-c83d-4346-8501-f58113b634d7.png)
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.34.19.png)
 <br>
 
 - Dev Results- 
-
-![image.png](attachment:b63b8c70-7ac5-4e55-86cf-7311d909eae8.png)
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.34.22.png)
 <br>
 # 5.Implementation
 
 Following those metrics, the XGBoost Regressor and Random Forest were identified as the top-performing models.
 I tested XGBoost model on the test data and we can see good results. <br>
-![image.png](attachment:b54d3e20-679c-4e4f-bda4-ab8f6f2d1285.png) <br><br>
-![image.png](attachment:9d84e005-5ed3-4c1a-91f4-b41cb7b43045.png)
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.34.31.png) <br><br>
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2016.08.41.png)
+
 <br>
