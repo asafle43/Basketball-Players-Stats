@@ -1,4 +1,4 @@
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2Z3poMXI4djEyNjQzcTZ2eWl5aHJuN2JpenN3bjU4bGVrYXFsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbGWXmC39RdsXCHDsk/giphy.gif)
+<iframe src="https://giphy.com/embed/7NAQ6qRoa61vCYU9Pa" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nba-cavs-cleveland-cavaliers-donovan-mitchell-7NAQ6qRoa61vCYU9Pa">via GIPHY</a></p>
 # Basketball Players Stats-Predicting the #Blocks per Player
 An Exploratory Data Analysis and Machine Learning Approach
 
