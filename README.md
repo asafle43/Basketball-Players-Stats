@@ -139,3 +139,6 @@ I tested XGBoost model on the test data and we can see good results. <br>
 ![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2016.08.41.png)
 
 <br>
+
+## 6.Conclusion
+In this project, I developed a machine learning model to predict the number of blocks for each basketball player in a specific season. After thorough data preparation and exploratory data analysis (EDA), I experimented with several models, evaluating them based on error metrics such as RMSE and MAE. The XGBoost model emerged as the best-performing model, achieving an impressive RMSE of 0.108 and an MAE of 0.07, indicating strong predictive accuracy. This model can potentially be used to gain valuable insights into player performance and inform strategic decisions in basketball analytics.
