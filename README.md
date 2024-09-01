@@ -1,4 +1,4 @@
-![](https://github.com/asafle43/Basketball-Players-Stats/README.md/gif.webp)
+![](https://github.com/asafle43/Basketball-Players-Stats/README/gif.webp)
 
 
 # Basketball Players Stats-Predicting the #Blocks per Player
