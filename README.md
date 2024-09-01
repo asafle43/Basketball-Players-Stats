@@ -84,16 +84,16 @@ Distribution of Numeric Features:
 
 **Numeric Features to identify Outliers:**
 
-![image.png](attachment:39149457-1b86-467c-96fb-d17744dad429.png)
-![image.png](attachment:28ff285a-f8ea-44a4-9a33-648d24cbdc59.png)
+![image.png]()
+![image.png]()
 
 **Distribution of target value(BLK) Vs. Position:**
-![image.png](attachment:c1424a52-77d3-4677-b800-4ffed3f0547a.png)
+![image.png]()
 
 
 **Correlation Matrix Heatmap:**
 <br>
-![image.png](attachment:fcfb4bbe-5d74-4f69-8e8f-e937dd7bcd46.png)
+![image.png]()
 
 ## 4.Model Selection
 In this phase the main goal is to select a model that best captures the underlying patterns in the data while generalizing well to unseen data.We chose regression models, were selected due the target variable.
