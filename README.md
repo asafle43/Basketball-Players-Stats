@@ -130,7 +130,8 @@ Model Results using the Metrics
 - Dev Results- 
 ![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.34.22.png)
 <br>
-# 5.Implementation
+
+## 5.Implementation
 
 Following those metrics, the XGBoost Regressor and Random Forest were identified as the top-performing models.
 I tested XGBoost model on the test data and we can see good results. <br>
