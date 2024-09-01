@@ -86,16 +86,20 @@ Distribution of Numeric Features:
 
 **Numeric Features to identify Outliers:**
 
-![image.png]()
-![image.png]()
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.16.01.png)
 
-**Distribution of target value(BLK) Vs. Position:**
-![image.png]()
+**Distribution of target value(BLK) Vs. Position-Chart A**
+
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.16.43.png)
+
+**Distribution of target value(BLK) Vs. Position-Chart B**
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.16.50.png)
 
 
 **Correlation Matrix Heatmap:**
+![Screenshot_2](https://github.com/asafle43/Basketball-Players-Stats/blob/main/Screenshot%202024-09-01%20at%2018.16.36.png)
 <br>
-![image.png]()
+
 
 ## 4.Model Selection
 In this phase the main goal is to select a model that best captures the underlying patterns in the data while generalizing well to unseen data.We chose regression models, were selected due the target variable.
